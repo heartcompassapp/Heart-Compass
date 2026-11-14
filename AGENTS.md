@@ -8,7 +8,7 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 <!-- END:nextjs-agent-rules -->
 
-## HeartCompass development
+## Pairzy development
 
 - Install dependencies with `npm ci`.
 - Start the app with `npm run dev` (port 3000).

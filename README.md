@@ -1,6 +1,6 @@
-# HeartCompass
+# Pairzy
 
-HeartCompass is a structured 90-day educational program for people navigating lipid results, prescriptions, and follow-up care between diagnosis and recheck.
+Pairzy is an **18+ Gen Z dating app**. This repo is the application codebase.
 
 ## Development
 

@@ -13,9 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HeartCompass",
-  description:
-    "The 90-day guide between your diagnosis and your recheck.",
+  title: "Pairzy",
+  description: "18+ Gen Z dating app.",
 };
 
 export default function RootLayout({
